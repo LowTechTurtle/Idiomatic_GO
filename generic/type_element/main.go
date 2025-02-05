@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// ~ before a type means it will work for the user defined concrete type 
+// ~ before a type means it will work for the user defined concrete type
 // that have underlying type of the type specified in the Integer interface
 type Integer interface {
 	~int | ~int8 | ~int16 | ~int32 | ~int64 |

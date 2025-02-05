@@ -17,7 +17,8 @@ import "fmt"
 	func main() {
 		div60([]int{1, 2, 3, 0, 5})
 	}
-	random turtle
+
+random turtle
 */
 func div60(i int) {
 	defer func() {

@@ -76,11 +76,11 @@ func main() {
 		fmt.Println("Sneaky Turtle")
 	}
 
-/*
-	err := AFunctionThatReturnsAnError()
-	var myErr MyErr
-	if errors.As(err, &myErr) {
-	fmt.Println(myErr.Codes)
-	}
-*/
+	/*
+	   err := AFunctionThatReturnsAnError()
+	   var myErr MyErr
+	   if errors.As(err, &myErr) {
+	   fmt.Println(myErr.Codes)
+	   }
+	*/
 }

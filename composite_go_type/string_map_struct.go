@@ -86,12 +86,12 @@ func using_struct() {
 	fmt.Println(turtle)
 	var ahoy person = person{age: 30, name: "ahoy"}
 	fmt.Println(ahoy)
-	
+
 	//anonymous struct
 
 	var banana struct {
 		leng float32
-		wid float32
+		wid  float32
 	}
 
 	banana.leng = 3.22
@@ -100,7 +100,7 @@ func using_struct() {
 	random_point := struct {
 		x int
 		y int
-	} {
+	}{
 		x: 2,
 		y: 3,
 	}

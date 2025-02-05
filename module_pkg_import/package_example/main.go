@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/LowTechTurtle/Idiomatic_GO/tree/main/module_pkg_import/package_example/math"
+	format "github.com/LowTechTurtle/Idiomatic_GO/module_pkg_import/package_example/do-format"
+	"github.com/LowTechTurtle/Idiomatic_GO/module_pkg_import/package_example/math"
 )
 
 func main() {
