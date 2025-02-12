@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"github.com/go-chi/chi/v5"
-	"github.com/LowTechTurtle/Idiomatic_GO/context/context_guid/guid_tracker"
+	"github.com/LowTechTurtle/Idiomatic_GO/context/context_guid/tracker"
 	"io"
 	"net/http"
 )
