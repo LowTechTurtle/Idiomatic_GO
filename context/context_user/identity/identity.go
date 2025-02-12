@@ -44,7 +44,7 @@ func Middleware(h http.Handler) http.Handler {
 	})
 }
 
-func setUser(user string, w http.ResponseWriter) {
+func SetUser(user string, w http.ResponseWriter) {
 	http.SetCookie(w, &http.Cookie{
 		Name:  "identity",
 		Value: user,

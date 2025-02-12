@@ -1,0 +1,4 @@
+github.com/LowTechTurtle/Idiomatic_GO v0.0.0-20250212035100-1fe1b6f9a510 h1:YRRTmZCQyECHfEPAYPm5K6LOKVGppqvbeWBZIHDixXE=
+github.com/LowTechTurtle/Idiomatic_GO v0.0.0-20250212035100-1fe1b6f9a510/go.mod h1:8y33u7J/LZiiFT1VrzDhtBCOpq4BZDW3Yjx5GelhH2Y=
+github.com/go-chi/chi/v5 v5.2.1 h1:KOIHODQj58PmL80G2Eak4WdvUzjSJSm0vG72crDCqb8=
+github.com/go-chi/chi/v5 v5.2.1/go.mod h1:L2yAIGWB3H+phAw1NxKwWM+7eUH/lU8pOMm5hHcoops=
