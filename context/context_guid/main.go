@@ -2,10 +2,11 @@ package main
 
 import (
 	"context"
-	"github.com/go-chi/chi/v5"
-	"github.com/LowTechTurtle/Idiomatic_GO/context/context_guid/tracker"
 	"io"
 	"net/http"
+
+	"github.com/LowTechTurtle/Idiomatic_GO/context/context_guid/tracker"
+	"github.com/go-chi/chi/v5"
 )
 
 type Logic interface {
