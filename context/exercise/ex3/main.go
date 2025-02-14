@@ -61,3 +61,5 @@ func MiddleWare(h http.Handler) http.Handler {
 		h.ServeHTTP(w, r)
 	})
 }
+ers(t *testing.T) {
+	result := a
